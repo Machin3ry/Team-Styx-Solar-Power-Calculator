@@ -4,4 +4,4 @@
 
 #I worked on the index file and the power file.
 
-<a href="Machin3ry.github.io/Team-Styx-Solar-Power-Calculator/index.html">CLICK HERE TO SEE WEBSITE LIVE</a>
+<a href="https://Machin3ry.github.io/Team-Styx-Solar-Power-Calculator/index.html">CLICK HERE TO SEE WEBSITE LIVE</a>
